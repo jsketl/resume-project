@@ -6,10 +6,10 @@ import uuid
 faker = Faker()
 
 # Load job skills from CSV file and convert to list
-skills_df = pd.read_csv('/Users/josephsketl/projects/resume_db/skills.csv')
+skills_df = pd.read_csv('skills.csv')
 skills_list = skills_df['skills'].tolist()
 
-degrees_df = pd.read_csv('/Users/josephsketl/projects/resume_db/degrees.csv')
+degrees_df = pd.read_csv('degrees.csv')
 degrees_list = degrees_df['major'].tolist()
 
 
@@ -23,7 +23,7 @@ def generate_resume():
 
     # Randomy decide max_nb_chars value for faker.text
     nb_chars = random.randint(100, 5000)
-    
+
     return {
         "id": str(uuid.uuid4()),
         "name": faker.name(),
