@@ -1,0 +1,301 @@
+degree ,major
+Bachelor's,Computer Science
+Bachelor's,Information Technology
+Bachelor's,Software Engineering
+Bachelor's,Electrical Engineering
+Bachelor's,Mechanical Engineering
+Bachelor's,Civil Engineering
+Bachelor's,Aerospace Engineering
+Bachelor's,Industrial Engineering
+Bachelor's,Biomedical Engineering
+Bachelor's,Physics
+Bachelor's,Chemistry
+Bachelor's,Biology
+Bachelor's,Environmental Science
+Bachelor's,Geology
+Bachelor's,Mathematics
+Bachelor's,Statistics
+Bachelor's,Economics
+Bachelor's,Business Administration
+Bachelor's,Accounting
+Bachelor's,Finance
+Bachelor's,Marketing
+Bachelor's,International Business
+Bachelor's,Psychology
+Bachelor's,Sociology
+Bachelor's,Anthropology
+Bachelor's,Political Science
+Bachelor's,History
+Bachelor's,Philosophy
+Bachelor's,English Literature
+Bachelor's,Journalism
+Bachelor's,Communications
+Bachelor's,Education
+Bachelor's,Fine Arts
+Bachelor's,Graphic Design
+Bachelor's,Public Health
+Bachelor's,Criminal Justice
+Bachelor's,Social Work
+Bachelor's,Nursing
+Bachelor's,Hospitality Management
+Bachelor's,Agriculture
+Bachelor's,Forestry
+Bachelor's,Urban Studies
+Bachelor's,Environmental Policy
+Bachelor's,Film Studies
+Bachelor's,Cognitive Science
+Bachelor's,Linguistics
+Bachelor's,Speech Pathology
+Bachelor's,Kinesiology
+Bachelor's,Sports Management
+Bachelor's,Theatre Arts
+Bachelor's,Art History
+Bachelor's,Media Studies
+Bachelor's,Cybersecurity
+Bachelor's,Data Analytics
+Bachelor's,Geographic Information Systems
+Bachelor's,Marine Biology
+Bachelor's,Physics Education
+Bachelor's,Chemistry Education
+Bachelor's,Biological Sciences
+Bachelor's,Library Science
+Bachelor's,Game Development
+Bachelor's,International Relations
+Bachelor's,Forensic Science
+Bachelor's,Food Science
+Bachelor's,Horticulture
+Bachelor's,Veterinary Science
+Bachelor's,Pharmaceutical Sciences
+Bachelor's,Astronomy
+Bachelor's,Zoology
+Bachelor's,Environmental Engineering
+Bachelor's,Chemical Engineering
+Bachelor's,Petroleum Engineering
+Bachelor's,Construction Management
+Bachelor's,Real Estate
+Bachelor's,Fashion Design
+Bachelor's,Product Design
+Bachelor's,Robotics
+Bachelor's,Music Technology
+Bachelor's,Cultural Studies
+Bachelor's,Human Geography
+Bachelor's,Wildlife Management
+Bachelor's,Telecommunications
+Bachelor's,Materials Science
+Bachelor's,Transportation Engineering
+Bachelor's,Machine Learning
+Bachelor's,Environmental Chemistry
+Bachelor's,Biomedical Sciences
+Bachelor's,Industrial Design
+Bachelor's,Tourism Management
+Bachelor's,Ethical Hacking
+Bachelor's,Data Science
+Bachelor's,Digital Media
+Bachelor's,Sustainable Agriculture
+Bachelor's,Earth Sciences
+Bachelor's,Urban Forestry
+Bachelor's,Hospital Administration
+Bachelor's,Data Science
+Bachelor's,Machine Learning
+Bachelor's,Cybersecurity
+Bachelor's,Artificial Intelligence
+Master's,Robotics
+Master's,Renewable Energy Engineering
+Master's,Material Science
+Master's,Structural Engineering
+Master's,Clinical Psychology
+Master's,Public Administration
+Master's,Educational Leadership
+Master's,Healthcare Management
+Master's,Environmental Management
+Master's,Urban Planning
+Master's,International Relations
+Master's,Creative Writing
+Master's,Public Health
+Master's,MBA
+Master's,Supply Chain Management
+Master's,Graphic Design
+Master's,Architecture
+Master's,Industrial Design
+Master's,Game Development
+Master's,Social Work
+Master's,Bioinformatics
+Master's,Agricultural Science
+Master's,Sports Management
+Master's,Human Resources
+Master's,Theology
+Master's,Fine Arts
+Master's,Museum Studies
+Master's,Computer Science
+Master's,Information Systems
+Master's,Mechanical Engineering
+Master's,Electrical Engineering
+Master's,Biotechnology
+Master's,Nanotechnology
+Master's,Chemical Engineering
+Master's,Software Engineering
+Master's,Cloud Computing
+Master's,Data Analytics
+Master's,Educational Technology
+Master's,Statistics
+Master's,Business Analytics
+Master's,Marketing Analytics
+Master's,Finance
+Master's,Actuarial Science
+Master's,Risk Management
+Master's,Operations Research
+Master's,Econometrics
+Master's,Behavioral Science
+Master's,Organizational Psychology
+Master's,Industrial/Organizational Psychology
+Master's,Environmental Science
+Master's,Geology
+Master's,Marine Science
+Master's,Forestry
+Master's,Ecological Restoration
+Master's,Horticulture
+Master's,Entomology
+Master's,Agronomy
+Master's,Food Science
+Master's,Animal Science
+Master's,Veterinary Medicine
+Master's,Astronomy
+Master's,Physics
+Master's,Mathematics
+Master's,Statistics
+Master's,Bioinformatics
+Master's,Genetics
+Master's,Microbiology
+Master's,Epidemiology
+Master's,Public Policy
+Master's,International Development
+Master's,Economics
+Master's,Sociology
+Master's,Anthropology
+Master's,Cultural Studies
+Master's,History
+Master's,Philosophy
+Master's,Political Science
+Master's,Theology
+Master's,Divinity
+Master's,Religious Studies
+Master's,Creative Arts
+Master's,Music Performance
+Master's,Music Education
+Master's,Drama
+Master's,Dance
+Master's,Visual Arts
+Master's,Art Education
+Master's,Museum Curation
+Master's,Library Science
+Master's,Information Science
+Master's,Game Design
+Master's,Human-Computer Interaction
+Master's,Environmental Policy
+Master's,Machine Learning
+Master's,Artificial Intelligence
+Master's,Data Science
+Master's,Astrophysics
+Master's,Molecular Biology
+Master's,Organic Chemistry
+Master's,Neuroscience
+PhD,Philosophy of Science
+PhD,Cognitive Psychology
+PhD,Environmental Economics
+PhD,Political Philosophy
+PhD,Linguistics
+PhD,Comparative Literature
+PhD,Biomedical Engineering
+PhD,Quantum Physics
+PhD,Climate Science
+PhD,Marine Biology
+PhD,Geophysics
+PhD,Mathematical Modeling
+PhD,Nanotechnology
+PhD,Theoretical Computer Science
+PhD,Educational Psychology
+PhD,Biostatistics
+PhD,Anthropology
+PhD,Archaeology
+PhD,Sociology of Health
+PhD,Evolutionary Biology
+PhD,Ethnomusicology
+PhD,Cultural Studies
+PhD,Criminology
+PhD,Legal Theory
+PhD,Chemical Engineering
+PhD,Environmental Engineering
+PhD,Civil Engineering
+PhD,Structural Engineering
+PhD,Aerospace Engineering
+PhD,Robotics
+PhD,Information Systems
+PhD,Network Security
+PhD,Cryptography
+PhD,Operations Research
+PhD,Behavioral Economics
+PhD,Development Economics
+PhD,Applied Mathematics
+PhD,Topology
+PhD,Quantum Computing
+PhD,Statistical Physics
+PhD,Astronomy
+PhD,Stellar Dynamics
+PhD,Planetary Science
+PhD,Geochemistry
+PhD,Paleontology
+PhD,Ecology
+PhD,Agricultural Economics
+PhD,Food Security
+PhD,Forestry
+PhD,Veterinary Medicine
+PhD,Pathology
+PhD,Bioinformatics
+PhD,Molecular Genetics
+PhD,Gene Therapy
+PhD,Immunology
+PhD,Cancer Biology
+PhD,Epidemiology
+PhD,Public Health Policy
+PhD,Global Health
+PhD,Urban Studies
+PhD,Urban Design
+PhD,Architecture
+PhD,Art History
+PhD,Classics
+PhD,Musicology
+PhD,Film Studies
+PhD,Performance Studies
+PhD,Social Psychology
+PhD,Organizational Psychology
+PhD,Educational Technology
+PhD,Policy Studies
+PhD,Comparative Politics
+PhD,International Relations
+PhD,Development Studies
+PhD,Gender Studies
+PhD,Intersectionality
+PhD,Race and Ethnicity
+PhD,Religious Studies
+PhD,Ethics
+PhD,Aesthetics
+PhD,Philosophy of Mind
+PhD,Philosophy of Language
+PhD,Computer Science
+PhD,Information Technology
+PhD,Software Engineering
+PhD,Electrical Engineering
+PhD,Mechanical Engineering
+PhD,Civil Engineering
+PhD,Aerospace Engineering
+PhD,Industrial Engineering
+PhD,Biomedical Engineering
+PhD,Physics
+PhD,Chemistry
+PhD,Biology
+PhD,Environmental Science
+PhD,Geology
+PhD,Mathematics
+PhD,Statistics
+PhD,Economics
+PhD,Business Administration
