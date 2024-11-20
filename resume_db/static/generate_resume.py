@@ -6,22 +6,24 @@ import uuid
 faker = Faker()
 
 # Load job skills from CSV file and convert to list
-skills_df = pd.read_csv("skills.csv")
+skills_df = pd.read_csv('/Users/josephsketl/projects/resume_db/skills.csv')
 skills_list = skills_df['skills'].tolist()
 
-degrees_df = pd.read_csv("skills.csv")
+degrees_df = pd.read_csv('/Users/josephsketl/projects/resume_db/degrees.csv')
 degrees_list = degrees_df['major'].tolist()
 
-# Randomly decide the value of k (number of skills to include in each resume)
-k = random.randint(1, 25)
 
-# Ensure k does not exceed the number of available skills
-k = min(k, len(skills_list))
-
-# Randomy decide max_nb_chars value for faker.text
-nb_chars = random.randint(100, 5000)
 
 def generate_resume():
+    # Randomly decide the value of k (number of skills to include in each resume)
+    k = random.randint(1, 25)
+
+    # Ensure k does not exceed the number of available skills
+    k = min(k, len(skills_list))
+
+    # Randomy decide max_nb_chars value for faker.text
+    nb_chars = random.randint(100, 5000)
+    
     return {
         "id": str(uuid.uuid4()),
         "name": faker.name(),
